@@ -1,30 +1,34 @@
 <!--
 Provide an outline of this pull request in the Title above.
+
 The title should be in the following format:
     Issue #<Issue id> <Title>
 
 Please be sure to write the title in English.
 And write texts other than the title in a language that you can reliably communicate with the reviewer.
+
+タイトルは必ず英語で記述してください。
+また、タイトル以外のテキストはレビュアーと確実にやり取りできる言語で記述してください。
 -->
 
 ## Analysis
 <!--
-Please provide the root cause of the pull request.
+Provide the root cause of the pull request.
 問題の根本原因を記載してください。
 -->
 
 ## Solution
 <!--
-Please provide the solution.
+Provide the solution.
 解決策を記載してください。
 -->
 
 ## Install/Update
 <!--
-Describe how to apply the modification.
+Provide how to apply the modification.
 (When it can not be applied by simple module replacement such as modification of service schema)
 
-修正の適用方法を記載してください。
+この変更の適用方法を記載してください。
 （サービススキーマの修正など、単純なモジュール差し替えでは適用できない場合）
 -->
 
@@ -48,7 +52,7 @@ Describe the effect on performance.
 
 ## I18N
 <!--
-Describe the impact on internationalization.
+Provide the impact on internationalization.
 (If you need attention to other languages, such as when changing the wording of the error message)
 
 国際化への影響を記載してください。
@@ -57,12 +61,12 @@ Describe the impact on internationalization.
 
 ## Testing
 <!--
-Describe the necessary test procedures to confirm the modification.
+Provide the necessary test procedures to confirm the modification.
 修正を確認するために必要なテスト手順を記載してください。
 -->
 
 ## Regression testing
 <!--
-Describe the result of the regression test.
+Provide the result of the regression test.
 リグレッションテストの結果を記載してください。
 -->
