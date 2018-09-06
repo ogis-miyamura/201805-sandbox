@@ -5,7 +5,8 @@ about: Create a report to help us improve
 ---
 
 <!--
-Provide a general summary of this issue in the Title above.
+Provide a general summary of this issue in English, in the Title above.
+上のタイトル欄に、このIssueの概要を *英語で* 記入してください。
 -->
 
 ## Description
@@ -18,6 +19,7 @@ Describe a more detailed introduction to the bug itself, and why you consider it
 Please provide detailed steps for reproducing the issue.
 Include code to reproduce, if relevant.
 
+Ex.
 - Testcase
     1. Go to '...'.
     1. Click on '....'.
@@ -26,12 +28,6 @@ Include code to reproduce, if relevant.
     1. Click on '....'.
     1. See result.
 -->
-- Testcase
-    1. xxx.
-        1. xxx.
-        1. xxx.
-    1. xxx.
-        1. xxx.
 
 ## Expected Results
 <!--
@@ -47,10 +43,12 @@ Explain what happens instead of the expected results.
 <!--
 Include as many relevant details about the environment you experienced the bug in.
 If this part is unnecessary, please remove it.
+
+Ex.
+- Target version:
+- Operating system and version (desktop or mobile):
+- Web browser name and version:
 -->
-* Target version:
-* Operating system and version (desktop or mobile):
-* Web browser name and version:
 
 ## Debug Log
 <!--
